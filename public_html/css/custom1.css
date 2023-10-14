@@ -1,0 +1,381 @@
+.navbar {
+  margin-bottom: 0px;
+}
+.navbar-default {
+  background-color: #0d3896 !important;
+  /*	background-color: #fe0100!important;*/
+  border: 0px;
+  border-radius: 0px;
+}
+.navbar-right li a {
+  font-weight: 300;
+}
+
+.Eve_Head {
+  padding: 1% 10%;
+  text-align: center;
+}
+.Eve_Head h3 {
+  text-align: center;
+  font-size: 45px;
+  color: #112866;
+}
+.serv img {
+  width: 400px;
+  height: 400px;
+}
+
+.sub {
+  background: #f7b718;
+  color: #112866;
+  width: 23%;
+  height: 5rem;
+  border: none;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 30px 30px;
+  margin-right: 10px;
+}
+.cent {
+  padding: 3%;
+}
+
+.koc_head {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  font-family: "Open sans";
+  font-size: 46px;
+  color: #fff;
+}
+.koc_contact_head {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  font-family: "Open sans";
+  font-size: 46px;
+  color: #fba617;
+}
+.koc_about {
+  margin-top: 20px;
+}
+.about_head,
+.history_head {
+  font-family: "Open sans";
+  font-size: 25px;
+  color: #000;
+}
+.about_head1 {
+  font-family: "Open sans";
+  font-size: 20px;
+  color: #000;
+}
+.mission_head {
+  font-family: "Open sans";
+  font-size: 30px;
+  margin-top: 50px;
+  font-weight: 600;
+  color: #000;
+}
+.about_content,
+.history_content {
+  font-family: "Open sans";
+  font-size: 17px;
+  color: #000;
+  text-align: justify;
+}
+
+.mission_content {
+  font-family: "Open sans";
+  font-size: 17px;
+  color: #000;
+  text-align: justify;
+}
+.kocimg1 {
+  border: 5px solid #000;
+  border-radius: 40px 40px;
+  padding-top: 20px;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.footer {
+  background-color: #0d3896;
+  color: #ccc;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  padding: 13px;
+}
+.footer_right {
+  float: right;
+}
+
+.foo_info li a {
+  color: #112866;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+}
+.foo_info img {
+  width: 85px;
+  height: 85px;
+}
+.foo {
+  background-color: #f7b718;
+  color: #112866;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+}
+.foo h4 {
+  font-weight: 600;
+}
+.fa {
+  margin-right: 15px !important;
+}
+
+.red {
+  color: red;
+}
+.form-area {
+  background-color: #fafafa;
+  padding: 10px 40px 60px;
+  margin: 10px 0px 60px;
+}
+.form-control {
+  border-radius: 0;
+  box-shadow: none;
+}
+.form-control:focus {
+  border-color: #ccc;
+  box-shadow: none;
+}
+label {
+  font-family: "Open sans";
+  font-size: 14px;
+  color: #000;
+}
+
+.well {
+  background-color: #fff;
+}
+
+.gallery_product p {
+  font-size: 18px;
+}
+.jumbotron {
+  border-radius: 0px;
+  font-family: "Open sans";
+  box-shadow: 0px 0px 100px 25px rgba(0, 0, 0, 0.2);
+}
+.btnRJ {
+  background: #17227c;
+  border-radius: 0px;
+  box-shadow: none;
+}
+.btnRJ:hover {
+  background: #17227c;
+}
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.open > .dropdown-toggle.btn-primary:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.open > .dropdown-toggle.btn-primary:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open > .dropdown-toggle.btn-primary.focus {
+  background: #17227c;
+  box-shadow: none;
+  border-color: #17227c;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus {
+  background: #17227c;
+  box-shadow: none;
+  border-color: #17227c;
+  outline: 0;
+}
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.open > .dropdown-toggle.btn-primary:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.open > .dropdown-toggle.btn-primary:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open > .dropdown-toggle.btn-primary.focus {
+  background: #17227c;
+}
+
+.galRJ .row {
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: #f8c062;
+}
+.dropdown-menu > a:hover,
+.dropdown-menu > a:focus {
+  background-color: #ccc;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: #1350d7;
+}
+
+.footer p {
+  margin: 0px;
+}
+
+.addmap {
+  background: url(../images/Banner.jpg) no-repeat;
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+.erj {
+  font-family: "open sans";
+  color: #fe4444;
+  text-align: center;
+  font-size: 20px;
+  border-bottom: 1px solid #f1f0f0;
+}
+.erj1 {
+  font-family: "open sans";
+  color: #677;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  padding-top: 5px;
+}
+.rightEvents {
+  box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.07);
+  background: #ffffff;
+  margin-top: 60px;
+}
+
+.rowEvents {
+  border: 1px groove rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  padding: 10px 0;
+  background: #ffffff;
+  box-shadow: 2px 2px 0 rgba(23, 23, 120, 0.3);
+}
+.mob h3 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  color: #fba617;
+  text-align: center !important;
+  padding: 5px;
+}
+.mobtab h3,
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  color: #fba617;
+  margin-left: 2%;
+  text-align: center !important;
+}
+.mob p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  padding: 5px;
+}
+.mob img {
+  padding: 10px;
+}
+
+.ban_allsize {
+  /*  background: url(../images/BAN_ABOUTUS1.jpg) no-repeat 100% 100%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;*/
+  min-height: 350px;
+  margin: auto;
+  width: 100% !important;
+}
+
+@media (min-width: 1600px) and (max-width: 2500px) {
+  .container {
+    width: 1470px !important;
+  }
+  .mob .col-md-3 {
+    width: 100%;
+  }
+}
+
+@media (min-width: 1201px) and (max-width: 1600px) {
+  .container {
+    width: 1270px !important;
+  }
+}
+@media (max-width: 768px) {
+  .koc_head {
+    top: 20%;
+    font-size: 34px;
+    left: 30%;
+  }
+  .navbar-brand img {
+    width: 50px;
+    height: 50px;
+  }
+  .ban_allsize {
+    width: 100%;
+  }
+}
+@media (min-width: 328px) and (max-width: 504px) {
+  .top_bar {
+    display: none;
+  }
+  .hero h1 {
+    background: none !important;
+    font-size: 4em !important;
+    margin: 0 !important;
+  }
+  .hero h3 {
+    display: none;
+  }
+  .navbar-default .navbar-nav > li > a {
+    text-align: center;
+  }
+  .koc_head,
+  .koc_contact_head {
+    display: none;
+  }
+  .about_head,
+  .history_head,
+  .mission_head {
+    font-size: 20px;
+  }
+  .about_content,
+  .history_content,
+  .mission_content {
+    font-size: 13px;
+  }
+  .navbar-brand img {
+    width: 50px;
+    height: 50px;
+  }
+  .ban_allsize {
+    min-height: 150px;
+  }
+   .sub {
+    display: none;
+  }
+   .Eve_Head h3 {
+    font-size: 24px;
+    color: #333;
+    text-align: left;
+  }
+  .Eve_Head span {
+    color: #000;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .Eve_Head {
+    padding: 0px;
+  }
+}
