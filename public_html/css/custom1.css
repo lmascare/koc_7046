@@ -262,18 +262,39 @@ label {
   background: #ffffff;
   box-shadow: 2px 2px 0 rgba(23, 23, 120, 0.3);
 }
-.mob h3 {
+.mob h4 h3 h2 h1{
   font-family: "Open Sans", sans-serif;
-  font-weight: 400;
-  color: #fba617;
+  font-weight: bold;
+  color: #19037cfd;
   text-align: center !important;
   padding: 5px;
 }
 .mobtab h3,
 h1 {
   font-family: "Open Sans", sans-serif;
-  font-weight: 400;
-  color: #fba617;
+  font-weight: bold;
+  color: #19037cfd;
+  margin-left: 2%;
+  text-align: center !important;
+}
+h2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  color: #19037cfd;
+  margin-left: 2%;
+  text-align: center !important;
+}
+h3 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  color: #19037cfd;
+  margin-left: 2%;
+  text-align: center !important;
+}
+h4 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  color: #19037cfd;
   margin-left: 2%;
   text-align: center !important;
 }
