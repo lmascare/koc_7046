@@ -298,7 +298,24 @@ h4 {
   margin-left: 2%;
   text-align: center !important;
 }
+p li ul ol{
+  font-family: "Open Sans", sans-serif;
+  font-size: medium;
+  color: #000;
+  text-align: left;
+}
 .mob p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  padding: 5px;
+}
+li ul ol{
+  font-family: "Open Sans", sans-serif;
+  font-size: medium;
+  color: #000;
+  text-align: left;
+}
+.mob li ul ol {
   font-family: "Open Sans", sans-serif;
   font-size: 15px;
   padding: 5px;
