@@ -305,7 +305,19 @@ h5 {
   margin-left: 2%;
   text-align: center !important;
 }
-p li ul ol dl dt dd {
+h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  color: #3c16e4fd;
+  margin-left: 2%;
+  text-align: center !important;
+}
+dl {
+  font-family: "Open Sans", sans-serif;
+  color: #3c16e4fd;
+  margin-left: 2%;
+}
+p li ul ol {
   font-family: "Open Sans", sans-serif;
   font-size: medium;
   color: #000;
