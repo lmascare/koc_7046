@@ -273,39 +273,39 @@ label {
 h1 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
-  color: #19037cfd;
+  color: #3c16e4fd;
   margin-left: 2%;
   text-align: center !important;
 }
 h2 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
-  color: #19037cfd;
+  color: #3c16e4fd;
   margin-left: 2%;
   text-align: center !important;
 }
 h3 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
-  color: #19037cfd;
+  color: #3c16e4fd;
   margin-left: 2%;
   text-align: center !important;
 }
 h4 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
-  color: #19037cfd;
+  color: #3c16e4fd;
   margin-left: 2%;
   text-align: center !important;
 }
 h5 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
-  color: #19037cfd;
+  color: #3c16e4fd;
   margin-left: 2%;
   text-align: center !important;
 }
-p li ul ol{
+p li ul ol dl dt dd {
   font-family: "Open Sans", sans-serif;
   font-size: medium;
   color: #000;
